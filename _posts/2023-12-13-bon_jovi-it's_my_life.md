@@ -11,7 +11,7 @@ tag: rock
 
 그러다 블로그에서 또 우연찮게 듣게 되었고, 그러다 보니 자연스럽게 즐겨 듣게 되었다.
 
-[![it's_my_life](https://img.youtube.com/vi/vx2u5uUu3DE/0.jpg)](https://www.youtube.com/vx2u5uUu3DE)
+[![it's_my_life](https://img.youtube.com/vi/vx2u5uUu3DE/0.jpg)](https://www.youtube.com/watch?v=vx2u5uUu3DE)
 
 This ain't a song for the broken-hearted
 No silent prayer for faith-departed
