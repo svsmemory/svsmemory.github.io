@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 
-<h1>{{ title }}</h1>
+<h1>{{ site.title }}</h1>
