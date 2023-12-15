@@ -5,9 +5,9 @@
         <h1>Akashic Record</h1>
         <nav>
           <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Post</a></li>
-            <li><a href="#">About</a></li>
+            {% for item in site.data.navigation %}
+              <li><a herf="{{ item.link }}" {% if page.url == item.link %} style="color: red;"{% endif %}>{{ item.name }}</a></li>
+            {% endfor %}
           </ul>
         </nav>
       </header>
