@@ -1,9 +1,10 @@
 .current {
     color: rgb(1, 190, 1) !important;
+    font-weight: bolder;
 }
 
 /* link tag color setting */
-a:link, a:visited, a:hover, a:active { color:rgb(0, 104, 201) }
+a:link, a:visited, a:hover, a:active { color:rgb(51, 62, 94) }
 
 header { 
     display: flex; 
