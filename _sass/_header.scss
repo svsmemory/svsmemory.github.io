@@ -1,6 +1,11 @@
 .current {
-    color: green;
+    color: rgb(0, 159, 0);
 }
+
+/* link tag color setting */
+a:link, a:visited, a:hover, a:active { color:black }
+
+header { display: flex; justify-content: space-between; }
 
 .header {
     display: flex;
