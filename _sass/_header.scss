@@ -6,7 +6,7 @@
 a:link, a:visited, a:hover, a:active { color:black }
 
 header { display: flex; justify-content: space-between; }
-header h1 { position: absolute; left: -2000px; }
+header h1 { padding-left: 30px; padding-top: 15px; height: 80px; }
 
 .container { width: 1270px; margin:0 auto; }
 
