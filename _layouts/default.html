@@ -7,7 +7,7 @@
           <ul>
               <a href="www.naver.com">NAVER</a>
             {% for item in site.data.navigation %}
-              <a herf="{{ item.link }}" {% if page.url == item.link %} class="current" {% endif %}>{{ item.name }}</a>
+              <a href="{{ item.link }}" {% if page.url == item.link %} class="current" {% endif %}>{{ item.name }}</a>
             {% endfor %}
           </ul>
         </nav>
