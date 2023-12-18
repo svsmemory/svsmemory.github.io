@@ -5,13 +5,9 @@
         <h1>Akashic Record</h1>
         <nav>
           <ul>
-            <li>
               <a href="www.naver.com">NAVER</a>
-            </li>
             {% for item in site.data.navigation %}
-              <li>
-                <a herf="{{ item.link }}" {% if page.url == item.link %} class="current" {% endif %}>{{ item.name }}</a>
-              </li>
+              <a herf="{{ item.link }}" {% if page.url == item.link %} class="current" {% endif %}>{{ item.name }}</a>
             {% endfor %}
           </ul>
         </nav>
