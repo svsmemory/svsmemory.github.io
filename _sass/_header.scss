@@ -1,14 +1,27 @@
-.current {
-    color: rgb(0, 159, 0);
-}
 
 /* link tag color setting */
 a:link, a:visited, a:hover, a:active { color:black }
 
-header { display: flex; justify-content: space-between; }
-header h1 { padding-left: 30px; padding-top: 15px; height: 80px; }
-header nav { display: flex; text-align: center; }
-header a { padding: 20px 10px; }
+.current {
+    color: rgb(0, 159, 0);
+}
+
+header { 
+    display: flex; 
+    justify-content: space-between; 
+}
+header h1 { 
+    padding-left: 30px; 
+    padding-top: 15px; 
+    height: 80px; 
+}
+header nav { 
+    display: flex; 
+    text-align: center; 
+}
+header a { 
+    padding: 20px 10px; 
+}
 
 .container { width: 1270px; margin:0 auto; }
 
