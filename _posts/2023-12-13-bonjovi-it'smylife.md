@@ -7,6 +7,8 @@ subcategories: Crush
 tag: rock
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vx2u5uUu3DE?si=nyaAjkDnw9hGuS0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 {% if site.language == "korean" %}
 기억을 되짚어보면 내가 제일 처음 들었던 팝송은 아마도 Beatles의 Yesterday 였던 것으로 기억한다. '웬만해서는 그들을 막을 수 없다'라는 시트콤에서 접했는데, 그 당시엔 크게 관심이 없었다. 어쨋든 내가 관심을 가지고 듣기 시작했던 건 Bon Jovi의 It's my life 다. 당시 중학교에는 응원부가 있었는데, 걔네들이 연습 할 때에 Bon Jovi 의 It's my life 를 배경음악으로 했었다.
 
