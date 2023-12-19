@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Bon Jovi - Crush_01. It's My Life"
 date:   2023-12-13 01:51
 categories: Bon Jovi
 subcategories: Crush
 tag: rock
 ---
 
+{% if site.language == "korean" %}
 기억을 되짚어보면 내가 제일 처음 들었던 팝송은 아마도 Beatles의 Yesterday 였던 것으로 기억한다. '웬만해서는 그들을 막을 수 없다'라는 시트콤에서 접했는데, 그 당시엔 크게 관심이 없었다. 어쨋든 내가 관심을 가지고 듣기 시작했던 건 Bon Jovi의 It's my life 다. 당시 중학교에는 응원부가 있었는데, 걔네들이 연습 할 때에 Bon Jovi 의 It's my life 를 배경음악으로 했었다.
 
 그러다 블로그에서 또 우연찮게 듣게 되었고, 그러다 보니 자연스럽게 즐겨 듣게 되었다.
@@ -124,3 +125,5 @@ Like Frankie said, "I did it my way"
 
 I just want to live while I'm alive
 'Cause it's my life
+
+{% endif %}
