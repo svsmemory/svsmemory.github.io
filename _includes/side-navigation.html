@@ -1,7 +1,5 @@
 <ul>
     {% for category in site.posts %}
-        {% for subcategory in category %}
-            <h2>{{ subcategory }}</h2>
-        {% endfor %}
+        {{ category }}
     {% endfor %}
   </ul>
