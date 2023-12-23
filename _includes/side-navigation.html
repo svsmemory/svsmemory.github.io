@@ -2,7 +2,7 @@
     {{ category[0] }}
     <ul>
         {% for post in category[1] %}
-            {{ post.tags[0] }}
+            {{ post.tags[0] }} - ({{ site.posts | where: "post", post.tags[0] | size }})
         {% endfor %}
     </ul>
 {% endfor %}
