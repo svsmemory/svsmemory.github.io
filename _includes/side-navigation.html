@@ -13,10 +13,10 @@
 
         {% if category[0] == main_ctg %}
             <h1>
-            {{ category[0] }} - ({{ category.size }})
+            {{ category[0] }} - ({{ category.last.size }})
             </h1>
         {% else %}
-            {{ category[0] }} - ({{ category.size }})
+            {{ category[0] }} - ({{ category.last.size }})
         {% endif %}
     </ul>
 {% endfor %}
