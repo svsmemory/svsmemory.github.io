@@ -2,7 +2,7 @@
     {{ category[0] }}
     <ul>
         {% for post in category[1] %}
-            {{ post.tags[0] }} - ({{ site.category[post.tags[0]].size }})
+        {{ post.tags[0] }} - ( {% if category[0] == post.tags[0] %} {{ category[0].size }} {% else %} 0 {% endif %})
         {% endfor %}
     </ul>
 {% endfor %}
