@@ -1,7 +1,10 @@
 {% for category in site.categories %}
     {{ category[0] }}
-    {%  assign cont = category[0] %}
+    {%  assign post = category[1] %}
     <ul>
-        {{ cont.post }}
+        {% assgin pathes = post.path | split '/' %}
+        {{ pathes[1] }}
+        {% if category[0] == pathes[1] %} <h1> {{ category[0] }} ({{ category[0].size }}) </h1>
+        {% else %} {{ category[0] }} ({{ category[0].size }}) {% endif %}
     </ul>
 {% endfor %}
