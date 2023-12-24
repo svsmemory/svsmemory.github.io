@@ -5,7 +5,7 @@
         {{ post.path }}
 
         {% assign pathes = post.path | split: "/" %}
-        {% assign main_ctg = pathes[1] %}
+        {% assign main_ctg = pathes[1] | replace: "-", " " %}
 
         {% if category[0] == main_ctg %}
             MainCategory
