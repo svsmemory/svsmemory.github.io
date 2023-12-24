@@ -3,9 +3,9 @@
     <ul>
         {% assign post = category[1][0] %}
         {{ post.path }}
-        {% assign pathes = post.path | split: "/" %}
 
         {% for path in pathes %}
+            {% for dir in path | split: "/" %}
         {{ path }}
         {% endfor %}
     </ul>
