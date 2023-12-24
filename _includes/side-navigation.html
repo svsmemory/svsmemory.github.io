@@ -1,6 +1,10 @@
 {% for category in site.categories %}
     {{ category[0] }}
     <ul>
+        {% for post in category %}
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        {% endfor %}
+
         {% assign post = category[1][0] %}
         {{ post.path }}
 

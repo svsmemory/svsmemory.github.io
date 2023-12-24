@@ -7,8 +7,6 @@ title: Blog
 <ul>
   {% for post in site.posts %}
     <li>
-      {% assign pathes = post.path | split: "/" %} 
-      <h3> {{ pathes[1] | replace: "-", " " }}</h3>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
     </li>
