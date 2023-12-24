@@ -8,13 +8,11 @@
         {% assign main_ctg = pathes[1] | replace: "-", " " %}
 
         {% if category[0] == main_ctg %}
-            MainCategory
+            <h1>
+            {{ category[0] }} - ({{ category[0].size }})
+            </h1>
         {% else %}
-            SubCategory
+            {{ category[0] }} - ({{ category[0].size }})
         {% endif %}
-
-        {% for path in pathes %}
-            {{ path }}
-        {% endfor %}
     </ul>
 {% endfor %}
