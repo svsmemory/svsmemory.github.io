@@ -1,10 +1,12 @@
 {% for category in site.categories %}
     {{ category[0] }}
     <ul>
-        {% assign cont = category[1][0] %}
-        {{ cont.path }}
-        {% for post in category[1] %}
-            {{ post.path }}
-        {% endfor %} 
+        {% assign post = category[1][0] %}
+        {{ post.path }}
+        {% assign pathes = post.path | split "/" %}
+        
+        {% for path in pathes %}
+            {{ path }}
+        {% endfor %}
     </ul>
 {% endfor %}
