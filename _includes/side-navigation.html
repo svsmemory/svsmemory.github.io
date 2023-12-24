@@ -1,6 +1,6 @@
 {% for category in site.categories %}
     {{ category[0] }}
-    {%  assign post = category[1] %}
+    {%  assign post = category[1][0] %}
     <ul>
         {% assgin pathes = post.path | split '/' %}
         {{ pathes[1] }}
