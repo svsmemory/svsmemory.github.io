@@ -1,7 +1,8 @@
 {% for category in site.categories %}
     {{ category[0] }}
     <ul>
-        {{ category[1][0] }}
+        {% assign cont = category[1][0] %}
+        {{ cont.path }}
         {% for post in category[1] %}
             {{ post.path }}
         {% endfor %} 
