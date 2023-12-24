@@ -2,6 +2,7 @@
 layout: post
 title:  "Bon Jovi - Crush_01. It's My Life"
 date:   2023-12-13 01:51
+categories: [ Bon Jovi, Crush ]
 tag: [Crush, rock]
 ---
 
