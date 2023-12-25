@@ -1,8 +1,22 @@
 {% for category in site.categories %}
     {{ category[0] }}
     <ul>
-        {% for post in category[1] %}
-            {{ post.tags[0] }} - ({{ site.posts | where: "ps", "ps.tags contains post.tags[0]" | size }})
+        {% for post in category.last %}
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         {% endfor %}
+
+        {% assign post = category[1][0] %}
+        {{ post.path }}
+
+        {% assign pathes = post.path | split: "/" %}
+        {% assign main_ctg = pathes[1] | replace: "-", " " %}
+
+        {% if category[0] == main_ctg %}
+            <h1>
+            {{ category[0] }} - ({{ category.last.size }})
+            </h1>
+        {% else %}
+            {{ category[0] }} - ({{ category.last.size }})
+        {% endif %}
     </ul>
 {% endfor %}
