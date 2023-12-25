@@ -15,18 +15,18 @@ tag: [pop, rock]
 이 노래의 뮤직 비디오는 나에게 아주 강한 미뽕을 주입했는데, 지금 조차도 보다보면 그런 뽕맛이 느껴진다. 본격적으로 인터넷이 보급되고, 디지털 세상이 되어가는 모습이라던가 ( 이전의 아날로그 적인 모습에 비해서). 전형적인 동부의 빨간 아파트 및 미국의 거리 및 과거의 유행들. 거침없이 민폐를 끼치면서 목적지를 향해서 질주하는 주인공. 당시의 나에게 여러모로 충격을 주기엔 충분했다.
 
 ## Crush
-- **1. It's My Life**
-- 2. Say It Isn't So
-- 3. Thank You For Loving Me
-- 4. Two Story Town
-- 5. Next 100 Years
-- 6. Just Older
-- 7. Mystery Train
-- 8. Save the World
-- 9. Captain Crash & The Beauty Queen From Mars
-- 10. She's a Mystery
-- 11. I Got the Girl
-- 12. One Wild Night
+**1. It's My Life**
+2. Say It Isn't So
+3. Thank You For Loving Me
+4. Two Story Town
+5. Next 100 Years
+6. Just Older
+7. Mystery Train
+8. Save the World
+9. Captain Crash & The Beauty Queen From Mars
+10. She's a Mystery
+11. I Got the Girl
+12. One Wild Night
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vx2u5uUu3DE?si=nyaAjkDnw9hGuS0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
