@@ -1,5 +1,5 @@
 {% for category in site.categories %}
-    {% assign pathes = post.path | split: "/" %}
+    {% assign pathes = category.last[0].path | split: "/" %}
     {% assign main_ctg = pathes[1] | replace: "-", " " %}
 
     {% if category[0] == main_ctg %}
