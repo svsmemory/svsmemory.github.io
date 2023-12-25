@@ -1,6 +1,3 @@
----
----
-
 {% for category in site.categories %}
     {% assign pathes = category.last[0].path | split: "/" %}
     {% assign main_ctg = pathes[1] | replace: "-", " " %}
