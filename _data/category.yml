@@ -1,4 +1,4 @@
-- [ Bon Jovi ]
-  [ Crush, Bon Jovi, Farenheit 7800]
+- main: [ Bon Jovi ]
+  sub: [ Crush, Bon Jovi, Farenheit 7800]
 
-- Beatles
+- main: [ Beatles ]
