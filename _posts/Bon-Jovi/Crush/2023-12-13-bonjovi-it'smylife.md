@@ -157,20 +157,46 @@ I just want to live while I'm alive
 (It's my life)
 
 My heart is like an open highway
+
+내 마음은 열린 고속도로와 같아
+
 Like Frankie said, "I did it my way"
+
+프랭크 시나수트라가 노래한것 처럼 "나의 길을 가겠어"
+
 I just want to live while I'm alive
 
+내가 살아있는 동안은 나의 인생을 살고싶어
+
 And it's now or never
+
+지금이 아니면 안돼
+
 I ain't gonna live forever
+
+영원히 살 것도 아니잖아
+
 I just want to live while I'm alive
+
+지금 내 인생을 살고 싶을뿐이야
 
 (It's my life)
 
 My heart is like an open highway
+
+내 마음은 확 트인 고속도로와 같아
+
 Like Frankie said, "I did it my way"
 
+프랭크 시나수트라가 말한 것 처럼 "나의 길을 걷겠어"
+
 I just want to live while I'm alive
+
+지금 내 삶을 살고 싶을 뿐이야
+
 'Cause it's my life
+
+이건 나의 인생이니까
 
 {% else %}
 
