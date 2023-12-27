@@ -1,12 +1,14 @@
-<ul>
-    {% for category in site.categories %}
-    {% assign pathes = category.last[0].path | split: "/" %}
-    {% assign main_ctg = pathes[1] | replace: "-", " " %}
-    
-    {% if category[0] == main_ctg %}
-    <h1> {{ category[0] }} - ({{ category.last.size }}) </h1>
-    {% else %}
-    <a href="{{ site.baseurl }}/category/{{ main_ctg }}">{{ category[0] }} - ({{ category.last.size }})</a>
-    {% endif %}
-    {% endfor %}
-</ul>
+<div class="side-nav">
+    <ul>
+        {% for category in site.categories %}
+        {% assign pathes = category.last[0].path | split: "/" %}
+        {% assign main_ctg = pathes[1] | replace: "-", " " %}
+        
+        {% if category[0] == main_ctg %}
+        <h1> {{ category[0] }} - ({{ category.last.size }}) </h1>
+        {% else %}
+        <a href="{{ site.baseurl }}/category/{{ main_ctg }}">{{ category[0] }} - ({{ category.last.size }})</a>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</div>
