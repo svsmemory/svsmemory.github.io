@@ -4,6 +4,7 @@ title:  "Bon Jovi - Crush_03. Thank You For Loving Me"
 date:   2023-12-27 23:58
 categories: [ Bon Jovi, Crush ]
 tag: [ pop, rock, ballad ]
+memory: 2012
 ---
 
 {% if site.language == "korean" %}
