@@ -15,7 +15,11 @@ memory: 2009
 
 ## About song..
 
-솔직히 이 노래가 도대체 무얼 말하는 것인지 도통 모르겠다. 
+시적인 은유가 주를 이루는 가사다. 나는 개인적으로 영문학 내지는 영문 소설을 읽어본 적이 없어서 이런 식의 문장을 이해하고 해석하는데 어려움이 많아 참 땀을 삐질 삐질 흘리곤한다. 기본적으로 She's a ride on a mystery train 이것부터가 부드럽게 뜻 풀이하는게 만만찮았다. 무엇보다도 사전 지식이 있는게 아니면 이해하기 어려운 내용들도 있으니 말이다.
+
+전체적으로는 사랑가이며, 자신의 연인을 예측 불허하고 신비한 존재로 묘사하고 있다. 이 Mystery Train이란 것이 사랑하는 이에 대한 은유이다. 특히, 너는 더 이상 캔자스에 있는게 아니다 라는 가사가 있는데, 이건 오즈의 마법사에 나오는 문구다. 이 말은 니가 알던 세상에 있는게 아니라 다른 어딘가로 왔다는 뜻인데, Mystery Train을 타고서 어딘지도 모를 곳에 닿았다는 의미이다.
+
+
 
 {% else %}
 
@@ -84,7 +88,7 @@ To a place you've never been before
 
 Better hold on tight to that mystery train
 
-미스테리 트레인에서는 꽉 붙잡고 있는게 좋을거야
+그 미지의 기차를 꽉 붙잡고 있는게 좋을거야
 
 You're not in Kansas anymore
 
@@ -120,27 +124,27 @@ And long before you knew her you knew she was the one
 
 She's a ride on a mystery train
 
-그녀는 미스테리 트레인에 올라탔어
+그녀는 알 수 없는 기차 여행을 하는 것 같아
 
 To a place you've never been before
 
-네가 모르는 그곳을 향해서 말이야
+가 본 적 없는 곳으로 떠나는 여행처럼
 
 Better hold on tight to that mystery train
 
-미스테리 트레인을 단단히 붙들고 있는 게 좋을거야
+이 알 수 없는 기차를 꽉 붙들고 있는 게 좋을거야
 
 You're not in Kansas anymore
 
-너는 더 이상 캔자스에 있는게 아니야
+너는 더 이상 캔자스에 있는게 아니거든
 
 She's a ride
 
-그녀는 올라탔어
+그녀는 마치
 
 Mystery train
 
-미스테리 트레인에
+미지의 기차에 올라탄 것 같아
 
 I know everything about her but don't know her at all
 
@@ -148,32 +152,32 @@ I know everything about her but don't know her at all
 
 She's a ride on a mystery train
 
-그녀는 미스테리 트레인에 올라탔어
+그녀는 미지의 기차 여행과 같아
 
 To a place you've never been before
 
-네가 모르는 그곳을 향해서 말이야
+가본 적도 없는 곳으로 떠나는 여행처럼
 
 Better hold on tight to that mystery train
 
-미스테리 트레인을 단단히 잡고 있는 게 좋을거야
+이 미지의 기차를 단단히 잡고 있는 게 좋을거야
 
 You're not in Kansas anymore
 
-너는 더 이상 캔자스에 있는게 아니야
+너는 더 이상 캔자스에 있는게 아니거든
 
 She's a ride
 
-그녀는 
+그녀는 정말이지
 
 Mystery train
 
-미스테리 트레인을 타고서
+알 수가 없어
 
 She's a ride
 
-그녀는 떠났어
+그녀는 도저히
 
 Mystery train
 
-미스테리 트레인을 타고서
+예측 할 수가 없지
