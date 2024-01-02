@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Bon Jovi - Crush_07. Mystery Train"
-date:   2023-12-31 18:50
+title:  "Bon Jovi - Crush 09. Captain Crash & Beauty Queen From Mars"
+date:   2024-01-02 13:43
 categories: [ Bon Jovi, Crush ]
 tag: [ pop, rock ]
-memory: 2009
+memory: 2016
 ---
 
 {% if site.language == "korean" %}
@@ -33,9 +33,9 @@ memory: 2009
 4. Two Story Town
 5. Next 100 Years
 6. Just Older
-7. **Mystery Train**
+7. Mystery Train
 8. Save the World
-9. Captain Crash & The Beauty Queen From Mars
+9. **Captain Crash & The Beauty Queen From Mars**
 10. She's a Mystery
 11. I Got the Girl
 12. One Wild Night
