@@ -25,7 +25,7 @@ memory: 2007
 
 ## Please Please Me
 
-### 사이드 1
+### 사이드 A
 
 1. I Saw Her Standing There
 2. Misery
@@ -35,7 +35,7 @@ memory: 2007
 6. Ask Me Why
 7. **Please Please Me**
 
-### 사이드 2
+### 사이드 B
 
 1. Love Me Do
 2. P.S. I Love You
