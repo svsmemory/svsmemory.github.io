@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Beatles - Please Please Me (A) 07. Please Please Me"
+title:  "Beatles - Please Please Me (A)_07. Please Please Me"
 date:   2024-01-07 04:32
-categories: [ Bon Jovi, Please Please Me ]
+categories: [ Beatles , Please Please Me ]
 tag: [ pop, rock ]
 memory: 2007
 ---

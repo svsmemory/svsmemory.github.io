@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bon Jovi - Crush 09. Captain Crash & Beauty Queen From Mars"
+title:  "Bon Jovi - Crush_09. Captain Crash & Beauty Queen From Mars"
 date:   2024-01-02 13:43
 categories: [ Bon Jovi, Crush ]
 tag: [ pop, rock ]
