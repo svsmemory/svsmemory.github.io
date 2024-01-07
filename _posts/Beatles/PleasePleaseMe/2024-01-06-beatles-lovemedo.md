@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beatles - Please Please Me (B)_01. Love Me Do"
-date:   2024-01-07 13:32
+date:   2024-01-07 12:32
 categories: [ Beatles , Please Please Me ]
 tag: [ pop, rock ]
 memory: 2024
