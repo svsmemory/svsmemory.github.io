@@ -8,6 +8,7 @@
         <h1> {{ category[0] }} - ({{ category.last.size }}) </h1>
         {% else %}
         <a href="{{ site.baseurl }}/category/{{ main_ctg }}">{{ category[0] }} - ({{ category.last.size }})</a>
+        <br/>
         {% endif %}
         {% endfor %}
     </ul>
