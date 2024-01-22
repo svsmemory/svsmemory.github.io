@@ -61,41 +61,71 @@ Help! 앨범 제목부터가 매우 독특해서 뭘까하는 기대감을 품�
 
 
 Help! I need somebody
-도와줘요! 난 누군가가 필요해요
+
+도와줘요! 누군가가 필요해요
+
 Help! Not just anybody
-도와줘요! 아무나는 아니죠
+
+도와줘요! 아무나가 아니라 말이에요
+
 Help! You know I need someone
-도와줘요! 내가 필요한 사람을 알잖아요
+
+도와줘요! 누굴 필요로 하는지 알잖아요
+
 Help!
+
 도와줘요!
 
 When I was younger so much younger than today
-내가 지금보다 한참 어렸을 때
+
+지금보다 한참 어렸을 적에
+
 I never needed anybody's help in any way
-나는 누군가의 도움이 필요했던 적이 절대 없었죠
-But[3] now these days are gone and I'm not so self assured
-하지만 그런 날들은 가고 난 자신이 없어요
+
+누군가의 도움이 필요치 않았어요.
+
+But now these days are gone and I'm not so self assured
+
+하지만 지금은 옛날 이야기가 되어버렸고 난 자신이 없어요
+
 Now I find I've changed my mind, I've opened up the doors
-지금 난 내 마음을 바꾸고, 마음의 문을 열어요
+
+지금 난 바뀐 제 자신을 보고, 마음의 문을 열어요
 
 Help me if you can, I'm feeling down
-가능하다면 도와주세요, 난 우울해지고 있죠
+
+할 수 있다면 도와줘요, 난 낙담하고 있어요
+
 And I do appreciate you being 'round
-곁에 있어준다면 감사드리겠어요
+
+곁에 있어준다면 감사드릴게요
+
 Help me get my feet back on the ground
-다시 땅을 밟을 수 있도록 도와주세요
+
+다시 이 땅을 딛고 서있을 수 있게 도와줘요
+
 Won't you please, please help me?
-나를 제발, 제발 도와주면 안되나요?
+
+부디 저를 도와주시겠어요
 
 And now my life has changed in oh so many ways
+
 그리고 지금 내 삶은 아주 많이 변화했어요
+
 My independence seems to vanish in the haze
-내 독립심은 사라진 것처럼 보이네요
+
+저의 독립심은 안개속으로 사라져버렸어요
+
 But every now and then I feel so insecure
+
 하지만 나는 항상 불안을 느껴요
+
 I know that I just need you like
+
 그저 그 어느 때보다 절박하게
+
 I've never done before
+
 당신이 필요함을 알아요
 
 Help me if you can, I'm feeling down
