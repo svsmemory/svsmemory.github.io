@@ -26,7 +26,13 @@ ul a {
     vertical-align: bottom;
 }
 
-.container { width: 1280px; margin:0 auto; display: flex; align-self: center; }
+.container { 
+    width: 1280px;
+    margin-top: 250px; 
+    margin:0 auto;
+    display: flex; 
+    align-self: center; 
+}
 
 /* headline */
 .headline {
