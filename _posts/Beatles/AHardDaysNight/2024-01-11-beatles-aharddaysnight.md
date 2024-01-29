@@ -21,7 +21,7 @@ memory: 2007
 
 {% endif %}
 
-## Please Please Me
+## A Hard Day's Night
 
 ### 사이드 A
 

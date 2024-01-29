@@ -25,7 +25,7 @@ Help! 앨범 제목부터가 매우 독특해서 뭘까하는 기대감을 품�
 
 {% endif %}
 
-## Please Please Me
+## Help!
 
 ### 사이드 A
 
