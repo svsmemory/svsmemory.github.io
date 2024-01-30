@@ -34,7 +34,7 @@ memory: 2008
 1. Drive My Car
 2. Norwegian Wood
 3. You Won't See Me
-4. **Nowhere Man**
+4. Nowhere Man
 5. Think for Yourself
 6. The Word
 7. Michelle
@@ -44,109 +44,7 @@ memory: 2008
 1. What Goes On
 2. Girl
 3. I'm Looking Through You
-4. In My Life
+4. **In My Life**
 5. Wait
 6. If I Needed Someone
 7. Run For Your Life
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8scSwaKbE64?si=-UN_NRcxI0TJqGM_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-He's a real nowhere man
-
-그는 정말이지 어디에도 없는 사람이죠
-
-Sitting in his nowhere land
-
-자기만의 보잘 것 없는 땅에 앉아서
-
-Making all his nowhere plans for nobody
-
-그 누구도 관심없는 하찮은 계획에 몰두하죠
-
-Doesn't have a point of view
-
-자기의 관점이 없네요
-
-Knows not where he's going to
-
-스스로 어딜 가는지도 모르죠
-
-Isn't he a bit like you and me?
-
-저와 당신을 좀 닮은 것 같지 않나요?
-
-Nowhere man please listen
-
-어디에도 없는 사내여 제 말을 들어요
-
-You don't know what you're missing
-
-당신은 뭘 놓치고 있는지 몰라요
-
-Nowhere man, the world is at your command
-
-어디에도 없는 사내여, 세상은 당신의 것이에요
-
-He's as blind as he can be
-
-그는 완전히 눈이 멀었어요
-
-Just sees what he wants to see
-
-자기가 보고싶은 것만 보죠
-
-Nowhere man, can you see me at all
-
-어디에도 없는 사람아, 제가 보이나요?
-
-Nowhere man don't worry
-
-어디에도 없는 사람아, 걱정하지 마세요
-
-Take your time, don't hurry
-
-당신의 시간을 가지고, 서두르지 마요
-
-Leave it all 'til somebody else Lends you a hand
-
-다른 이가 손을 건내 줄 때까지 기다려요
-
-Doesn't have a point of view
-
-자기의 관점이 없네요
-
-Knows not where he's going to
-
-스스로 어딜 가는지도 모르죠
-
-Isn't he a bit like you and me?
-
-저와 당신을 좀 닮은 것 같지 않나요?
-
-Nowhere man please listen
-
-어디에도 없는 사람아, 제 말을 들으세요
-
-You don't know what you're missing
-
-당신은 뭘 놓치고 있는지도 몰라요
-
-Nowhere man, the world is at your command
-
-어디에도 없는 사람아, 세상은 당신의 것이에요
-
-He's a real nowhere man
-
-그는 정말이지 어디에도 찾아볼 수 없는 사람이죠
-
-Sitting in his nowhere land Making all his nowhere plans for nobody
-
-자신의 보잘 것 없는 곳에 앉아 아무런 의미 없는 계획을 세우죠
-
-Making all his nowhere plans for nobody
-
-그 누구도 신경쓰지 않을 보잘 것 없는 계획을 세우고 있죠
-
-Making all his nowhere plans for nobody
-
-그 누구도 관심없는 보잘 것 없는 계획이나 그리고 있어요
