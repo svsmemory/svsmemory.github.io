@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beatles - Rubber Soul (A)_04. Nowhere Man"
+title:  "Beatles - Rubber Soul (B)_04. In My Life"
 date:   2024-01-30 00:45
 categories: [ Beatles, Rubber Soul ]
 tag: [ pop, rock ]
