@@ -15,7 +15,15 @@ Weeknd, 딱 봐도 비틀어 지은 듯한 이름이다. 인터넷 커뮤니티�
 
 하지만 후렴부의 나레이션을 듣고나니 도저히 그럴 수가 없었다. 참으로 내 가슴의 폐부를 찌르는 구절들이었다. 애초에 Weeknd가 이 앨범의 컨셉을 새벽의 FM을 들으며 사람들이 아침을 맞이 할 수 있도록 위로를 건네주겠다는 것이었다고 하니. 참으로 이런 감정과 경험들은 흔해빠진 일인 모양이다. 나 뿐만이 아니라 적지않은 이들이 그런 경험을 하고 상처를 받는 것이 아닐까.
 
+마지막에 Dial은 참으로 뜻이 중의적이라 여겨진다. Dial엔 라디오 주파수를 뜻하기도 하지만, 전화번호 버튼도 뜻하기도 한다. 이미 지나간 시간에 미련을 갖지 말라는 느낌으로도 다가온다.
+
 ## Out of Time & Regret
+
+지금까지 내 인생을 되돌아보면 참으로 후회스러운 순간들이 많다. 이런 소리도 몇 번이나 했을지 모르겠다. 그렇지만 특히 사랑과 관련하여서는 더 그런 일이 많은 것 같다. 그리고 이런 실수를 바로 잡고싶지만 Out Of Time 이란 말이 내 마음 속 깊은 기억들을 아주 깊게찌른다. 그렇다, Out Of Time. 이미 시간이 자나가서 때를 놓친 것이다.
+
+이제 내가 할 수 있는 건 시린 아픔을 되뇌이면서 앞으로의 기회를 놓치지 않고 잘 해나가는 것이다. 참으로 식상하고 딱딱하기가 그지 없는 이야기지만, 이것 뿐인 이야기다. 그렇지만서도 앞으로 나에게 새로운 기회가 있고, 난 그 기회를 제대로 잡을 수 있을까 모르겠다.
+
+특히, 뮤직 비디오의 마지막에서 달콤한 꿈이 무너지고 현실로 되돌아오는 순간을 보니 참 씁쓸하게 웃음을 짓게되었다. 달콤한 시간들이 핏빛 현실로 변하는건 참으로 순식간이다.
 
 {% else %}
 
@@ -23,108 +31,186 @@ Weeknd, 딱 봐도 비틀어 지은 듯한 이름이다. 인터넷 커뮤니티�
 
 ## Help!
 
-### 사이드 A
+1. Dawn FM
 
-1. Help!
-2. The Night Before
-3. You've Got to Hide Your Love Away
-4. I Need You
-5. Another Girl
-6. You're Going to Lose That Girl
-7. Ticket to Ride
+2. Gasoline
 
-### 사이드 B
+3. How Do I Make You Love Me?
 
-1. Act Naturally
-2. It's Only Love
-3. You Like Me Too Much
-4. Tell Me What You See
-5. I've Just Seen a Face
-6. **Yesterday**
-7. Dizzy Miss Lizzy
+4. Take My Breath
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NrgmdOz227I?si=CczFF_Lxjkv_2qUn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+5. Sacrifice
 
-Yesterday, all my troubles seemed so far away
+6. A Tale By Quincy
 
-어제만해도 모든 저의 문제들은 저 멀리있는 것 같았는데
+7. **Out of Time**
 
-Now it looks as though they're here to stay
+8. Here We Go...Again(feat. Tyler, The Creator)
 
-이제는 그것들이 밀려드는 것 같네요
+9. Best Friends
 
-Oh, I believe in yesterday
+10. Is There Someone Else?
 
-아, 지난 날이 좋았었는데
+11. Starry Eyes
 
-Suddenly, I'm not half the man I used to be
+12. Every Angel is Terrifying
 
-갑자기, 제가 옛날의 반도 못한 사람이 된 것 같아요
+13. Don't Break My Heart
 
-There's a shadow hanging over me
+14. I Heard You're Married(feat. Lil Wayne)
 
-어두운 그림자가 저를 덮치네요
+15. Less Than Zero
 
-Oh, yesterday came suddenly
+16. Phantom Regret By Jim
 
-아, 옛 일들이 갑자기 떠올라요
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2fDzCWNS3ig?si=ZW4q9H4cn-mZApyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Why she had to go I don't know
+Yeah, yeah
 
-왜 그녀가 떠나야 했는지 난 몰라요
+The last few months, I've been workin' on me, baby
+지난 몇 달간, 나 자신의 일로 좀 바빳어, 자기야
 
-she wouldn't say
+There's so much trauma in my life
+내 삶에 트라우마 너무 많았거든
 
-그녀는 아무말도 하지 않았죠
+I've been so cold to the ones who loved me, baby
+나를 사랑해주던 이들에게 너무 차가웠지
 
-I said something wrong
+I look back now and I realize
+이제와서 되돌아보니 알겠어
 
-저는 뭔가 잘못된거라 말했어요
 
-Now I long for yesterday
+And I remember when I held you
+너를 안았을 때가 기억나
 
-이제 전 지난 날을 그리워해요
+You begged me with your drowning eyes to stay
+너는 울면서 나에게 같이 있어달라고 했지
 
-Yesterday, love was such an easy game to play
+And I regret I didn't tell you
+그리고 난 너에게 말하지 않은 걸 후회해
 
-어제만해도 사랑은 쉬운 게임같았는데
+Now I can't keep you from loving him
+이제 난 너의 사랑을 지켜볼 수 밖에 없겠지
 
-Now I need a place to hide away
+You made up your mind
+그렇게 마음을 굳혔으니
 
-이젠 어디든 숨을 곳이 필요해요
 
-Oh, I believe in yesterday
+Say I love you, girl, but I'm out of time
+널 사랑한다고 말해, 하지만 이젠 너무나도 늦었어
 
-아, 그때가 좋았었는데
+Say I'm there for you, but I'm out of time
+널 기다리고 있겠다고 말해, 하지만 이미 지나가버린 일
 
-Why she had to go I don't know
+Say that I'll care for you, but I'm out of time
+너를 지켜주곘다고 말해, 하지만 이제는 소용없는걸
 
-그녀는 왜 떠나야만 했는지 모르겠어요
+Said I'm too late to make you mine, out of time (Ah)
+너를 되돌리기엔 너무늦었어, 때를 놓쳐버렸는걸
 
-she wouldn't say
 
-그녀는 아무 말도 하려 하지 않았어요
+If he mess up just a little
+만약 그 남자가 실수를 한다면
 
-I said something wrong
+Baby, you know my line
+자기야, 내 번호를 알지
 
-난 뭔가 잘못 됐다고 말했죠
+If you don't trust him a little
+그 놈이 조금이라도 의심이 간다면
 
-Now I long for yesterday
+Then come right back, girl, come right back
+그렇다면 바로 내게 돌아와, 바로 말이야
 
-이젠 지난 날이 그리워요
+Give me one chance, just a little
+나에게 한 번더 작은 기회라도 줘
 
-Yesterday, love was such an easy game to play
+Baby, I'll treat you right
+내가 잘할게
 
-예전엔, 사랑은 아주 쉬운 게임 같았어요
+And I'll love you like I shoulda loved you all the time
+내가 너에게 해야 했던 것처럼 너를 사랑할게
 
-Now I need a place to hide away
 
-지금은 숨어버릴 곳이 필요해요
+And I remember when I held you
+그리고 너를 안았던 때를 기억해
 
-Oh, I believe in yesterday
+You begged me with your drowning eyes to stay
+눈물흘리며 나를 붙잡았지
 
-아 지난 날이 좋았어요
+And I regret I didn't tell you
+너에게 전하지 못한 말을 후회해
 
-Mm mm mm mm mm mm mm
+Now I can't keep you from loving him
+이젠 너를 보낼 수 밖에
 
-음음음음 음 음음
+You made up your mind
+넌 그렇게 마음을 정했으니
+
+Say I love you, girl, but I'm out of time
+사랑해, 이제는 너무 늦어버린 말
+
+Say I'm there for you, but I'm out of time
+널 기다릴게, 이제는 지나가버린 말
+
+Say that I'll care for you, but I'm out of time
+너를 지켜줄게, 이제 소용없는 말
+
+Said I'm too late to make you mine, out of time (Ah)
+너를 되돌리기엔 너무나도 늦었어, 이미 지나가버린 일인걸
+
+
+Ooh, singin', out of time
+놓쳐버린 때를 노래해
+
+Said I had you to myself, but I'm out of time
+너와 함께 했지만, 이제는 지나가버린 걸
+
+Say that I'll care for you, but I'm out of time
+너를 지켜줄게, 하지만 이제는 늦어버린 걸
+
+But I'm too late to make you mine, out of time (Uh)
+너를 되돌리기엔 너무 늦었는걸, 때를 놓쳤어
+
+Out of time
+지나간 시간
+
+Out of time
+지나가버린 때
+
+*Spoken Outro: Jim Carrey*
+
+Don't you dare touch that dial
+그 다이얼에 손대지 마세요
+
+Because like the song says, you are out of time
+왜냐하면 노래에서 말했듯, 당신에겐 시간이 없거든요
+
+You're almost there, but don't panic
+이제 거이 다왔습니다, 그렇지만 불안해 하지마세요.
+
+There's still more music to come
+아직 노래들이 남아 있거든요
+
+Before you're completely engulfed in the blissful embrace
+당신이 은총의 품에 안기기전까지 말입니다.
+
+─ of that little light you see in the distance
+저 멀리서 작은 빛이 보낸 포옹이죠.
+
+Soon you'll be healed, forgiven, and refreshed
+당신은 곧 치유 되고, 용서 받을 거에요. 그리고 다시 일어 설겁니다.
+
+Free from all trauma, pain, guilt, and shame
+모든 나쁜 기억, 고통과 죄책감, 그리고 수치스러움들로부터 벗어날 겁니다.
+
+You may even forget your own name
+아마 당신의 이름조차도 잊게 되겠죠.
+
+But before you dwell in that house forever
+하지만 저 집에 영원히 살기전에
+
+Here's thirty minutes of easy listening to some slow tracks
+여기 30분 가량의 편안하고 느릿한 곡들을 들어보세요.
+
+On 103.5 Dawn FM
+이 103.5 새벽의 FM에서 말이죠.
