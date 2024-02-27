@@ -207,7 +207,7 @@ You may even forget your own name
 아마 당신의 이름조차도 잊게 되겠죠.
 
 But before you dwell in that house forever
-하지만 저 집에 영원히 살기전에
+하지만 저 집에 영원히 머무르기 전에
 
 Here's thirty minutes of easy listening to some slow tracks
 여기 30분 가량의 편안하고 느릿한 곡들을 들어보세요.
